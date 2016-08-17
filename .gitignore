@@ -28,6 +28,16 @@
 *.out
 *.app
 
+
 !.gitkeep
 bin/*
 build/*
+
+#
+*~
+\#*
+*\#
+.\#*
+*.pyc
+
+
