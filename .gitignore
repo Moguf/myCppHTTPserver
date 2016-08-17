@@ -40,4 +40,4 @@ build/*
 .\#*
 *.pyc
 
-
+a.out
